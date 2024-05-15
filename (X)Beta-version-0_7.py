@@ -147,7 +147,7 @@ class MainWindow(tk.Tk):
         super().__init__()
         self.db_manager = db_manager
         self.user_id = user_id
-        self.title("TaskBoard - Главное окно")
+        self.title("TaskBoard - Личный кабинет")
         self.geometry("800x600")
         self.create_widgets()
         self.update_time()
