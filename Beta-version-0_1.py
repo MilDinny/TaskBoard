@@ -1,3 +1,5 @@
+#Переход к ООП и PEP-8
+
 import tkinter as tk
 from tkinter import messagebox, filedialog
 import ttkbootstrap as ttk
